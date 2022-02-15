@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KephaKibet
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on various projectsthat support my learning 
+- 💞️ I’m looking to collaborate on various projects that support my learning 
 - 📫 How to reach me kibet.kepha@live.com / kibet.kepha@gmail.com 
 
 <!---
